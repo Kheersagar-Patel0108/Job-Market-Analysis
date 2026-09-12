@@ -29,16 +29,16 @@ The Power BI dashboard provides insights into job market trends, salaries, job r
 
 ## Dataset
 The project uses job market data for analysis and visualization.
+
 ## Dashboard Preview
 
 ### Job Market Analysis Dashboard
-![Job Market Analysis Dashboard](Screenshot%202026-04-30%20140504%281%29.png)
+![Job Market Analysis Dashboard](./Screenshot%202026-04-29%20123501.png)
 
 ### Salary Distribution Dashboard
-![Salary Distribution Dashboard](Screenshot%202026-04-29%20123530%281%29.png)
+![Salary Distribution Dashboard](./Screenshot%202026-04-29%20123530.png)
 
 ### Job Insights Dashboard
-![Job Insights Dashboard](Screenshot%202026-04-29%20123501%281%29.png)
-
+![Job Insights Dashboard](./Screenshot%202026-04-30%20140504.png)
 ## Author
 Kheersagar Patel
